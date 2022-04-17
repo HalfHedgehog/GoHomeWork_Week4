@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-var Restrictedflag bool
+var Restrictedflag bool //限流开关标记
 
 func main() {
 
